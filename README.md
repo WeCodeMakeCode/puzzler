@@ -1,19 +1,8 @@
-# shapes-puzzle ![Build status badge](https://github.com/wecodemakecode/shapes-puzzle/workflows/MakeCode/badge.svg)
+# Puzzler Game ![Build status badge](https://github.com/wecodemakecode/shapes-puzzle/workflows/MakeCode/badge.svg)
 
+## Use, Download and Edit
 
-
-## Use this extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open https://arcade.makecode.com/
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for the URL of this repository and import
-
-## Edit this extension
-
-To edit this repository in MakeCode.
+To use, download and edit this program in MakeCode.
 
 * open https://arcade.makecode.com/
 * click on **Import** then click on **Import URL**
