@@ -1,6 +1,6 @@
 # Puzzler Game ![Build status badge](https://github.com/wecodemakecode/shapes-puzzle/workflows/MakeCode/badge.svg)
 
-![Puzzler](/puzzler_gif.gif)
+![Puzzler](/puzzler_gif.gif.gif)
 
 ## Use, Download and Edit
 
