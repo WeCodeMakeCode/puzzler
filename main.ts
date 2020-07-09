@@ -267,8 +267,8 @@ function scatter () {
     pieces = sprites.allOfKind(SpriteKind.Piece)
     for (let value of pieces) {
         piece_positioms.push("" + value.x + "|" + value.y)
-        h = value.width / 2
-        w = value.height / 2
+        h = value.height / 2
+        w = value.width / 2
         value.left = randint(0 - w, scene.screenWidth() - w)
         value.top = randint(0 - h, scene.screenHeight() - h)
     }
