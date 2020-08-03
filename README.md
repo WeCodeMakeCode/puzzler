@@ -1,4 +1,4 @@
-# Puzzler Game ![Build status badge](https://github.com/wecodemakecode/shapes-puzzle/workflows/MakeCode/badge.svg)
+# Puzzler Game in MakeCode Arcade Blocks
 
 This MakeCode Arcade Blocks program demonstrates an implementation of drag and drop  Puzzler generates form 1 to 10 randomly-sized rectangles filling a square playing board. After generation, the puzzle pieces are scattered across the screen. The goal is to complete each of 10 levels. If the player completes a level within the allotted time the score is increased by the number of pieces for the level times 100.
 
