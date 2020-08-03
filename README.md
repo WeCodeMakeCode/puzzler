@@ -7,6 +7,9 @@ This MakeCode Arcade Blocks program demonstrates an implementation of drag and d
 ## YouTube Video
 https://youtu.be/qfy62ozxCoI
 
+## Blog Post
+https://wecodemakecode.com/2020/07/02/puzzler-as-streamed-on-twitch/
+
 ## Use, Download and Edit
 
 To use, download and edit this program in MakeCode.
